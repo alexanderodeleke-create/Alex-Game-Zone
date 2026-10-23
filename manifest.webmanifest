@@ -1,0 +1,18 @@
+{
+  "name": "Alex Game Zone",
+  "short_name": "AlexGameZone",
+  "description": "A fast arcade challenge by Alex Game Zone.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#080d18",
+  "theme_color": "#ff3b30",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
